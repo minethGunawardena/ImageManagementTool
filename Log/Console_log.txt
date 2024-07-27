@@ -1,0 +1,146 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 0 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||21:16:10 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||21:16:10|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||21:16:10|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 0 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-27||21:16:10
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 1 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||21:16:18 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||21:16:18|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||21:16:18|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 1 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-27||21:16:18
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 2 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||22:01:27 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Resizing Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Applying Brightness To Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Converting Image To Grayscale);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Converting image to grayScale(Method_2));
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log( Ajusting Grayscale image Pixalation);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Pixelating Image with block size 8.);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:01:27|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 2 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-27||22:01:27
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 3 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||22:04:14 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Resizing Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Applying Brightness To Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Converting Image To Grayscale);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Converting image to grayScale(Method_2));
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log( Ajusting Grayscale image Pixalation);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Pixelating Image with block size 8.);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:04:14|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 3 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-27||22:04:14
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 4 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||22:06:16 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||22:06:16|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||22:06:16|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-27||22:06:16|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-07-27||22:06:16|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:06:16|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:06:16|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-07-27||22:06:16|| System.Log(Saving Image);
+App version:<<0.1>>||2024-07-27||22:06:16|| System.Log(Image successfully saved as JPG at: testImages/blur_1.jpg);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 4 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-27||22:06:16
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||22:07:23 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||22:07:23|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||22:07:23|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-27||22:07:23|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:07:23|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:07:23|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-07-27||22:07:23|| System.Log(Error failed to load or Display image.imageFiltering : NO Image File Found);
+App version:<<0.1>>||2024-07-27||22:07:23|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-07-27||22:07:23|| System.Log(Saving Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||22:13:29 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||22:13:29|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||22:13:29|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-27||22:13:29|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:13:29|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:13:29|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||22:13:29|| System.Log(Error failed to load or Display image.imageFiltering : NO Image File Found);
+App version:<<0.1>>||2024-07-27||22:13:29|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||22:13:29|| System.Log(Saving Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||22:16:34 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||22:16:34|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||22:16:34|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-27||22:16:34|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:16:34|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:16:34|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||22:16:34|| System.Log(Error failed to load or Display image.imageFiltering : NO Image File Found);
+App version:<<0.1>>||2024-07-27||22:16:34|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||22:16:34|| System.Log(Saving Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||22:19:14 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||22:19:14|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||22:19:14|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-27||22:19:14|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:19:14|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:19:14|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||22:19:14|| System.Log(Error failed to load or Display image.imageFiltering : NO Image File Found);
+App version:<<0.1>>||2024-07-27||22:19:14|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||22:20:54 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||22:20:54|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||22:20:54|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-27||22:20:54|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:20:54|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:20:54|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||22:20:54|| System.Log(Error failed to load or Display image.imageFiltering : NO Image File Found);
+App version:<<0.1>>||2024-07-27||22:20:54|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||22:22:04 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||22:22:04|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||22:22:04|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-27||22:22:04|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||22:22:04|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||22:22:04|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||22:22:04|| System.Log(Error failed to load or Display image.imageFiltering : NO Image File Found);
+App version:<<0.1>>||2024-07-27||22:22:04|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||22:22:04|| System.Log(Error Image Save Unsuccessfull :Image is Null);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-27||22:22:04
+ 
