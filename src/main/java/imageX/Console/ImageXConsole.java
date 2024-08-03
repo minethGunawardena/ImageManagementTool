@@ -14,6 +14,7 @@ public class ImageXConsole {
 
     LoadData data_1 = new LoadData("Settings/app/app_Settings.json");
     SaveData data_2 = new SaveData("Settings/app/app_Settings.json");
+    SaveData data_s2 = new SaveData("Settings/CurrentVariables/currentValues.json");
     Long Attempt  = data_1.getLongValues("appRunAttempt");
     LocalDate date = LocalDate.now();
     LocalTime now = LocalTime.now();
@@ -39,6 +40,9 @@ public class ImageXConsole {
             writer.write("App-Version:<<"+appVersion+">>"+"\n");
             System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt "+Attempt+" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "+date+"||"+now.format(timeFormatter));
             System.out.println("App-Version:<<"+appVersion+">>");
+            data_s2.saveStringData("currentSelectedImageName",null);
+            data_s2.saveStringData("currentFileSavePath",null);
+            data_s2.saveStringData("BufferedImageData",null);
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -46,10 +50,26 @@ public class ImageXConsole {
 
     public void consoleLogEnd(){
         try (FileWriter writer = new FileWriter(filePath, true)) {
-            writer.write("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt "+Attempt+" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"+date+"||"+now.format(timeFormatter)+"\n \n");
-            System.out.println("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt "+Attempt+">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"+date+"||"+now.format(timeFormatter)+"\n \n \n\n");
+
+
+
+            data_s2.saveStringData("currentSelectedImageName",null);
+            data_s2.saveStringData("currentFileSavePath",null);
+            data_s2.saveStringData("BufferedImageData",null);
+            writer.write("Performing Cleanup");
+            for(int i =0;i<4;i++){
+                try {
+                    Thread.sleep(750);
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+                System.out.print(".");
+            }
             Attempt ++;
             data_2.savelongData("appRunAttempt",Attempt);
+            writer.write("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt "+Attempt+" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"+date+"||"+now.format(timeFormatter)+"\n \n");
+            System.out.println("\n<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt "+Attempt+">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"+date+"||"+now.format(timeFormatter)+"\n \n \n\n");
+
         } catch (IOException e) {
             e.printStackTrace();
         }
