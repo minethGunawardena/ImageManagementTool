@@ -144,3 +144,587 @@ App version:<<0.1>>||2024-07-27||22:22:04|| System.Log(Error : The Blur Multipli
 App version:<<0.1>>||2024-07-27||22:22:04|| System.Log(Error Image Save Unsuccessfull :Image is Null);
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 5 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-27||22:22:04
  
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 6 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||23:41:57 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Resizing Image);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Applying Brightness To Image);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Error failed to load or Display image.imageFiltering : NO Image File Found);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||23:41:57|| System.Log(Error Image Save Unsuccessfull :Image is Null);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 6 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-27||23:41:57
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 7 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-27||23:42:41 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Resizing Image);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Applying Brightness To Image);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Error failed to load or Display image.imageFiltering : NO Image File Found);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-07-27||23:42:41|| System.Log(Error Image Save Unsuccessfull :Image is Null);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 7 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-27||23:42:41
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 8 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-31||13:39:46 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-07-31||13:39:46|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-07-31||13:39:46|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-07-31||13:39:46|| System.Log(Loading Image);
+App version:<<0.1>>||2024-07-31||13:39:46|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 8 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-31||17:25:43 
+App-Version:<<0.1>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 8 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-31||17:25:43
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 9 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-31||17:25:57 
+App-Version:<<0.1>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 9 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-31||17:25:57
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 10 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-31||20:47:13 
+App-Version:<<0.1>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 10 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-31||20:47:13
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 11 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-31||21:45:29 
+App-Version:<<0.1>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 11 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-31||21:45:29
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 12 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-07-31||21:46:07 
+App-Version:<<0.1>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 12 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-07-31||21:46:07
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 13 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:21:12 
+App-Version:<<0.1>>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 13 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:21:12
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 14 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:23:58 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-01||08:23:58|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-08-01||08:23:58|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-01||08:23:58|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:23:58|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-01||08:23:58|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-08-01||08:23:58|| System.Log(Error failed to load or Display image.imageFiltering : NO Image File Found);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 14 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:23:58
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 15 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:24:13 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-01||08:24:13|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-08-01||08:24:13|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-01||08:24:13|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:24:13|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-01||08:24:13|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-08-01||08:24:13|| System.Log(Error failed to load or Display image.imageFiltering : NO Image File Found);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 15 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:24:13
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 16 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:24:42 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-01||08:24:42|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-08-01||08:24:42|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-01||08:24:42|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:24:42|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 16 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:24:42
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 17 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:25:12 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-01||08:25:12|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-08-01||08:25:12|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-01||08:25:12|| System.Log(Error : The Blur Multiplier is Too Low...!!!!);
+App version:<<0.1>>||2024-08-01||08:25:12|| System.Log(Error failed to load or Display image.imageFiltering : NO Image File Found);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 17 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:25:12
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 18 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:25:54 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-01||08:25:54|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-08-01||08:25:54|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-01||08:25:54|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-08-01||08:25:54|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:25:54|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 18 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:25:54
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 19 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:26:12 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-01||08:26:12|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-08-01||08:26:12|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-01||08:26:12|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:26:12|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-01||08:26:12|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-08-01||08:26:12|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:26:12|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 19 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:26:12
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 20 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:26:43 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-01||08:26:43|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-08-01||08:26:43|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-01||08:26:44|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:26:44|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-01||08:26:44|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-08-01||08:26:44|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:26:44|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 20 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:26:43
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 21 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:27:47 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-01||08:27:47|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-08-01||08:27:47|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-01||08:27:47|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:27:47|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-01||08:27:47|| System.Log(Applying Brightness To Image);
+App version:<<0.1>>||2024-08-01||08:27:47|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:27:47|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 21 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:27:47
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 22 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:27:59 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-01||08:27:59|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-08-01||08:27:59|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-01||08:27:59|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:27:59|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-01||08:27:59|| System.Log(Applying Brightness To Image);
+App version:<<0.1>>||2024-08-01||08:27:59|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:27:59|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 22 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:27:59
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 23 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:28:20 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-01||08:28:20|| System.Log(Original Image path : testImages\Man_2.jpg);
+App version:<<0.1>>||2024-08-01||08:28:20|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-01||08:28:20|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:28:20|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-01||08:28:20|| System.Log(Pixelating Image with block size 8.);
+App version:<<0.1>>||2024-08-01||08:28:20|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:28:20|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 23 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:28:20
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 24 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:29:07 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-01||08:29:07|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-01||08:29:07|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-01||08:29:07|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:29:07|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-01||08:29:07|| System.Log(Pixelating Image with block size 8.);
+App version:<<0.1>>||2024-08-01||08:29:07|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-01||08:29:07|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 24 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:29:07
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 25 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-01||08:30:18 
+App-Version:<<0.2>>
+App version:<<0.2>>||2024-08-01||08:30:18|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.2>>||2024-08-01||08:30:18|| System.Log(Is Image Found : true);
+App version:<<0.2>>||2024-08-01||08:30:18|| System.Log(Loading Image);
+App version:<<0.2>>||2024-08-01||08:30:18|| System.Log(Displaying Image);
+App version:<<0.2>>||2024-08-01||08:30:18|| System.Log(Pixelating Image with block size 8.);
+App version:<<0.2>>||2024-08-01||08:30:18|| System.Log(Loading Image);
+App version:<<0.2>>||2024-08-01||08:30:18|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 25 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-01||08:30:18
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 26 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||10:15:28 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||10:15:28|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||10:15:28|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-02||10:15:28|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-02||10:15:28|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-02||10:15:28|| System.Log(Pixelating Image with block size 8.);
+App version:<<0.1>>||2024-08-02||10:15:28|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-02||10:15:28|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 26 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||10:15:28
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 27 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||10:16:07 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||10:16:07|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||10:16:07|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-02||10:16:08|| System.Log(Pixelating Image with block size 8.);
+App version:<<0.1>>||2024-08-02||10:16:08|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-02||10:16:08|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 27 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||10:16:07
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 28 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||10:17:06 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||10:17:06|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||10:17:06|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 28 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||10:17:06
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 29 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||11:39:22 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||11:39:22|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||11:39:22|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 29 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||11:39:22
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 30 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||11:41:06 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||11:41:06|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||11:41:06|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 30 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||11:41:06
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 31 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||11:42:14 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||11:42:14|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||11:42:14|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 31 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||11:42:14
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 32 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||11:48:02 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||11:48:02|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||11:48:02|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 32 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||11:48:02
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 33 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||17:45:25 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||17:45:25|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||17:45:25|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 33 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||17:45:25
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 34 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||17:51:16 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||17:51:16|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||17:51:16|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 34 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||17:51:16
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 35 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||17:51:42 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||17:51:42|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||17:51:42|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 35 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||17:51:42
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 36 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||17:52:29 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||17:52:29|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||17:52:29|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 36 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||17:52:29
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 37 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||17:52:46 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||17:52:46|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||17:52:46|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 37 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||17:52:46
+ 
+App version:<<0.1>>||2024-08-02||18:43:33|| System.Log(Album name cannot be empty.);
+App version:<<0.1>>||2024-08-02||18:43:33|| System.Log(Album created successfully: D:\Test_Folder\Test_images\TestAlbum_1);
+App version:<<0.1>>||2024-08-02||18:54:08|| System.Log(Album created successfully: D:\Test_Folder\Test_Album_2);
+App version:<<0.1>>||2024-08-02||18:57:27|| System.Log(Album created successfully: D:\Test_Folder\Test_Album_3);
+App version:<<0.1>>||2024-08-02||18:59:02|| System.Log(Album created successfully: D:\Test_Folder\Test_Album_4);
+App version:<<0.1>>||2024-08-02||19:01:31|| System.Log(Album created successfully: D:\Test_Folder\Album_5);
+App version:<<0.1>>||2024-08-02||19:02:56|| System.Log(Album created successfully: D:\Test_Folder\Album_6);
+App version:<<0.1>>||2024-08-02||19:05:51|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||19:05:51|| System.Log(Album created successfully: D:\Test_Folder\Album_6\test);
+App version:<<0.1>>||2024-08-02||19:14:19|| System.Log(Album created successfully: D:\Test_Folder\Album_6\Album_6);
+App version:<<0.1>>||2024-08-02||19:14:19|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||19:15:22|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||19:15:22|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||19:17:05|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||19:18:08|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||19:19:55|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||19:21:18|| System.Log(null);
+App version:<<0.1>>||2024-08-02||19:21:18|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||19:21:46|| System.Log(null);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 38 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||19:44:24 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||19:44:24|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||19:44:24|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 38 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||19:44:24
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 39 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||19:45:05 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||19:45:05|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||19:45:05|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-02||19:45:05|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-02||19:45:05|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 39 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||19:45:05
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 40 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||19:51:05 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||19:51:05|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||19:51:05|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-02||19:51:05|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-02||19:51:05|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 40 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||19:51:05
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 41 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||19:51:19 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||19:51:19|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||19:51:19|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-02||19:51:20|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-02||19:51:20|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 41 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||19:51:19
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 42 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||19:59:44 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||19:59:44|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||19:59:44|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-02||19:59:44|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-02||19:59:44|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 42 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||19:59:44
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 43 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||20:00:21 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||20:00:21|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||20:00:21|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 43 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||20:00:21
+ 
+App version:<<0.1>>||2024-08-02||20:00:23|| System.Log(null);
+App version:<<0.1>>||2024-08-02||20:00:23|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||20:01:03|| System.Log(D:\Test_Folder\Album_6);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 44 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||20:03:05 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||20:03:05|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||20:03:05|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 44 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||20:03:05
+ 
+App version:<<0.1>>||2024-08-02||20:03:07|| System.Log(null);
+App version:<<0.1>>||2024-08-02||20:03:07|| System.Log(Album name cannot be empty.);
+App version:<<0.1>>||2024-08-02||20:03:07|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||20:05:01|| System.Log(D:\Test_Folder\Album_6);
+App version:<<0.1>>||2024-08-02||20:05:01|| System.Log(No directory selected.);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 45 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||20:05:19 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||20:05:19|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||20:05:19|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 45 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||20:05:19
+ 
+App version:<<0.1>>||2024-08-02||20:05:30|| System.Log(null);
+App version:<<0.1>>||2024-08-02||20:05:30|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||20:08:47|| System.Log(D:\Test_Folder\Album_6);
+App version:<<0.1>>||2024-08-02||20:08:47|| System.Log(No directory selected.);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 46 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||20:08:58 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||20:08:58|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||20:08:58|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 46 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||20:08:58
+ 
+App version:<<0.1>>||2024-08-02||20:09:00|| System.Log(null);
+App version:<<0.1>>||2024-08-02||20:09:00|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||20:09:00|| System.Log(Saving Data..);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 47 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||20:11:04 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||20:11:04|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||20:11:04|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 47 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||20:11:04
+ 
+App version:<<0.1>>||2024-08-02||20:11:09|| System.Log(null);
+App version:<<0.1>>||2024-08-02||20:11:09|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||20:11:09|| System.Log(Saving Data..);
+App version:<<0.1>>||2024-08-02||20:14:48|| System.Log(null);
+App version:<<0.1>>||2024-08-02||20:14:48|| System.Log(Album created successfully: D:\Test_Folder\Album_7);
+App version:<<0.1>>||2024-08-02||20:15:49|| System.Log(D:\Test_Folder\Album_7);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 48 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||20:36:55 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||20:36:55|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||20:36:55|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 48 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||20:36:55
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 49 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||20:49:44 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||20:49:44|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||20:49:44|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-02||20:49:52|| System.Log(null);
+App version:<<0.1>>||2024-08-02||21:50:13|| System.Log(null);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 50 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||21:50:20
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 50 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||21:51:25 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||21:51:25|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||21:51:25|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-02||21:51:30|| System.Log(null);
+App version:<<0.1>>||2024-08-02||21:51:30|| System.Log(An album with this name already exists.);
+App version:<<0.1>>||2024-08-02||21:51:30|| System.Log(Saving Data..);
+App version:<<0.1>>||2024-08-02||21:52:18|| System.Log(D:\Test_Folder\Album_6);
+App version:<<0.1>>||2024-08-02||21:52:27|| System.Log(D:\Test_Folder\Album_6);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 50 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||21:53:07 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||21:53:07|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||21:53:07|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-02||21:53:09|| System.Log(null);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 51 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||21:53:16
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 51 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-02||21:54:02 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-02||21:54:02|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-02||21:54:02|| System.Log(Is Image Found : true);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 52 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||21:54:06
+ 
+App version:<<0.1>>||2024-08-02||22:09:37|| System.Log(null);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 53 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||22:09:43
+ 
+App version:<<0.1>>||2024-08-02||23:00:36|| System.Log(null);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 54 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||23:01:19
+ 
+App version:<<0.1>>||2024-08-02||23:04:19|| System.Log(null);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 55 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||23:04:40
+ 
+App version:<<0.1>>||2024-08-02||23:13:58|| System.Log(null);
+App version:<<0.1>>||2024-08-02||23:14:06|| System.Log(Resizing Image);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 56 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||23:14:11
+ 
+App version:<<0.1>>||2024-08-02||23:15:09|| System.Log(null);
+App version:<<0.1>>||2024-08-02||23:15:24|| System.Log(Resizing Image);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 57 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||23:15:38
+ 
+App version:<<0.1>>||2024-08-02||23:15:50|| System.Log(null);
+App version:<<0.1>>||2024-08-02||23:16:05|| System.Log(Resizing Image);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 58 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||23:16:16
+ 
+App version:<<0.1>>||2024-08-02||23:19:47|| System.Log(null);
+App version:<<0.1>>||2024-08-02||23:20:07|| System.Log(Resizing Image);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 59 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||23:20:51
+ 
+App version:<<0.1>>||2024-08-02||23:21:00|| System.Log(null);
+App version:<<0.1>>||2024-08-02||23:21:24|| System.Log(Resizing Image);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 60 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||23:21:55
+ 
+App version:<<0.1>>||2024-08-02||23:23:54|| System.Log(null);
+App version:<<0.1>>||2024-08-02||23:24:24|| System.Log(Resizing Image);
+App version:<<0.1>>||2024-08-02||23:25:09|| System.Log(Resizing Image);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 61 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-02||23:25:30
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 61 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:32:43 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:32:43|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:32:43|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:32:50|| System.Log(null);
+App version:<<0.1>>||2024-08-03||08:33:22|| System.Log(Resizing Image);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 62 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-03||08:36:54
+ 
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 63 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-03||08:44:50
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 63 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:48:05 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:48:05|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:48:05|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:48:05|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:48:05|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:48:05|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-08-03||08:48:05|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:48:05|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 63 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:48:29 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:48:29|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:48:29|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:48:29|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:48:29|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:48:29|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-08-03||08:48:29|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:48:29|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 63 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:48:45 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:48:45|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:48:45|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:48:45|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:48:45|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:48:45|| System.Log(Applying Dynamic Blur To Image);
+App version:<<0.1>>||2024-08-03||08:48:45|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:48:45|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 63 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:49:07 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:49:07|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:49:07|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:49:07|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:49:07|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:49:07|| System.Log(Pixelating Image with block size 5.);
+App version:<<0.1>>||2024-08-03||08:49:07|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:49:07|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 63 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:49:30 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:49:30|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:49:30|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:49:30|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:49:30|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:49:30|| System.Log(Applying Brightness To Image);
+App version:<<0.1>>||2024-08-03||08:49:30|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:49:30|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 63 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:49:46 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:49:46|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:49:46|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:49:46|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:49:46|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:49:46|| System.Log(Applying Brightness To Image);
+App version:<<0.1>>||2024-08-03||08:49:46|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:49:46|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 63 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:50:32 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:50:32|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:50:32|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:50:32|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:50:32|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:50:32|| System.Log(Converting image to grayScale(Method_2));
+App version:<<0.1>>||2024-08-03||08:50:32|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:50:32|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 63 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:52:02 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:52:02|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:52:02|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:52:02|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:52:02|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:52:02|| System.Log(Pixelating Image with block size 5.);
+App version:<<0.1>>||2024-08-03||08:52:02|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:52:02|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:52:02|| System.Log(Pixelating Image with block size 5.);
+App version:<<0.1>>||2024-08-03||08:52:02|| System.Log(Saving Image);
+App version:<<0.1>>||2024-08-03||08:52:02|| System.Log(Image successfully saved as JPG at: testImages/Pixel_5.jpg);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 64 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-03||08:54:04
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 64 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:54:32 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:54:32|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:54:32|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:54:32|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:54:32|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:54:32|| System.Log(Corping Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 64 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:54:48 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:54:48|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:54:48|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:54:48|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:54:48|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:54:48|| System.Log(Corping Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 64 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||08:55:06 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||08:55:06|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||08:55:06|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||08:55:06|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:55:06|| System.Log(Displaying Image);
+App version:<<0.1>>||2024-08-03||08:55:06|| System.Log(Loading Image);
+App version:<<0.1>>||2024-08-03||08:55:06|| System.Log(Displaying Image);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 64 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||11:13:28 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||11:13:28|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||11:13:28|| System.Log(Is Image Found : true);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 64 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||11:13:44 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||11:13:44|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||11:13:44|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||11:13:49|| System.Log(null);
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 64 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||11:14:41 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||11:14:41|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||11:14:41|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||11:14:44|| System.Log(null);
+App version:<<0.1>>||2024-08-03||11:14:54|| System.Log(Resizing Image);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 65 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-03||11:16:00
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-Start Attempt 65 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 2024-08-03||11:16:08 
+App-Version:<<0.1>>
+App version:<<0.1>>||2024-08-03||11:16:08|| System.Log(Original Image path : testImages\Man_1.jpg);
+App version:<<0.1>>||2024-08-03||11:16:08|| System.Log(Is Image Found : true);
+App version:<<0.1>>||2024-08-03||11:16:10|| System.Log(null);
+App version:<<0.1>>||2024-08-03||11:16:22|| System.Log(Resizing Image);
+Performing Cleanup<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt 66 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>2024-08-03||11:16:47
+ 

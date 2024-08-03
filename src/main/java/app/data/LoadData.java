@@ -27,10 +27,8 @@ public class LoadData {
 
     }
     public Long getLongValues(String key){
-
         Long returnvalue = (long) jsonObject.get(key);
         return returnvalue;
-
     }
 
 }
