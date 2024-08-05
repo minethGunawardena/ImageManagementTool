@@ -3,7 +3,6 @@ import   java.io.*;
 import   javax.imageio.ImageIO;
 import   imageX.Console.ImageXConsole;
 
-
 public class testClass {
 
     public static void main(String[] args) throws IOException {
