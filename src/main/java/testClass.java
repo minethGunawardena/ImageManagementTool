@@ -23,5 +23,7 @@ public class testClass {
         image_1.saveBufferedImageAsJPG(image_1.dynamicBlur(image_1.bufferdImage,2),"testImages/blur_2.jpg");
         imgConsole.consoleLogEnd();
 
+
+        //Bug Fixed
     }
 }
