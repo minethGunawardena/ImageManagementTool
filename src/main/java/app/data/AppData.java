@@ -11,9 +11,10 @@ import  app.data.LoadData;
 
 public class AppData {//////////Stores And Reads the application data such as app version
 
-    String applicationVersion;
-    LoadData data_1 = new LoadData("Settings/app/app_Settings.json");
-    public AppData(){
+    private String applicationVersion;
+    private LoadData data_1;
+    public AppData()throws fileNotfoundException, ParseException, IOException{
+        data_1 = new LoadData(jsonfilePath:"Settings/app/app_Settings.json");
         applicationVersion =data_1.getStringValue("appVersion");
     }
     public String getApplicationVersion(){
