@@ -9,6 +9,8 @@ import java.time.format.DateTimeFormatter;
 import app.data.AppData;
 import app.data.*;
 
+import javax.swing.*;
+
 
 public class ImageXConsole {
 
@@ -56,7 +58,9 @@ public class ImageXConsole {
             data_s2.saveStringData("currentSelectedImageName",null);
             data_s2.saveStringData("currentFileSavePath",null);
             data_s2.saveStringData("BufferedImageData",null);
+            data_s2.saveStringData("currentImagePath",null);
             writer.write("Performing Cleanup");
+
             for(int i =0;i<4;i++){
                 try {
                     Thread.sleep(750);
@@ -65,10 +69,13 @@ public class ImageXConsole {
                 }
                 System.out.print(".");
             }
-            Attempt ++;
+
             data_2.savelongData("appRunAttempt",Attempt);
             writer.write("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt "+Attempt+" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"+date+"||"+now.format(timeFormatter)+"\n \n");
             System.out.println("\n<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<App-end Attempt "+Attempt+">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"+date+"||"+now.format(timeFormatter)+"\n \n \n\n");
+            Attempt ++;
+            data_2.savelongData("appRunAttempt",Attempt);
+
 
         } catch (IOException e) {
             e.printStackTrace();

@@ -1,3 +1,4 @@
+import RecyleBin.ImageCleanupQueue;
 import  imageX.image.imagefilters.imageFiltering;
 import   java.io.*;
 import  Gui.mainWindow.*;
@@ -8,9 +9,18 @@ import app.data.CurrentValues;
 
 public class testClass {
 
+
     public static void main(String[] args) throws IOException {
+
         ImageXConsole imgConsole = new ImageXConsole();
         imgConsole.consoleLogStart();
+
+        ImageCleanupQueue imageCleanupQueue = new ImageCleanupQueue();
+        File folder = new File("Temp/Images");
+        imageCleanupQueue.addFilesToQueue(folder.listFiles());
+        imageCleanupQueue.startCleanup();
+
+
         CurrentValues cv_1 = new CurrentValues();
         MainWindow mainWindow = new MainWindow();
         //new ImgEditor();

@@ -3,8 +3,8 @@ import  imageX.Console.ImageXConsole;
 import java.awt.image.BufferedImage;
 
 public class Image {
-    ImageNode head;
-    ImageNode tail;
+    public ImageNode head;
+    public ImageNode tail;
     ImageXConsole consoleX;
 
     public Image(){
@@ -12,11 +12,11 @@ public class Image {
         tail = null;
         consoleX = new ImageXConsole();
     }
-    static class ImageNode{
-        String imageName;
-        BufferedImage imageData;
-        ImageNode nextVariant;
-        ImageNode previousVariant;
+    public class ImageNode{
+        public String imageName;
+        public BufferedImage imageData;
+        public ImageNode nextVariant;
+        public ImageNode previousVariant;
 
         public ImageNode(String ImageName,BufferedImage ImageData){
             imageName =ImageName;

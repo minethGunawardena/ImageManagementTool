@@ -26,6 +26,9 @@ public class imageFiltering {
 
         }
     }
+    public imageFiltering(){
+
+    }
 
     public void displayImage(BufferedImage image){
         try {
@@ -41,7 +44,7 @@ public class imageFiltering {
             frame.setSize(image.getWidth(),image.getHeight());
             imageViewer.setIcon(new ImageIcon(image));
             frame.getContentPane().add(imageViewer,BorderLayout.CENTER);
-            frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+            frame.setLocationRelativeTo(null);
             frame.pack();
             frame.setVisible(true);
 
