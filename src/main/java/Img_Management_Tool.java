@@ -15,7 +15,6 @@ public class Img_Management_Tool {
         imageCleanupQueue.addFilesToQueue(folder.listFiles());
         imageCleanupQueue.startCleanup();
 
-
         CurrentValues cv_1 = new CurrentValues();
         MainWindow mainWindow = new MainWindow();
     }
