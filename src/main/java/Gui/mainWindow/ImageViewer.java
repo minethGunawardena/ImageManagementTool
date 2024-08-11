@@ -22,7 +22,6 @@ import app.data.LoadData;
 import imageX.Console.*;
 import imageX.image.imagefilters.imageFiltering;
 
-
 public class ImageViewer extends javax.swing.JFrame {
     CurrentValues currentValues = new CurrentValues();
     File base = null;
@@ -329,8 +328,6 @@ public class ImageViewer extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(this, "Delete operation canceled.");
         }
 
-
-
     }
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {
@@ -358,7 +355,6 @@ public class ImageViewer extends javax.swing.JFrame {
         }
     }
 
-
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {
         // the Back Button
         this.setVisible(false);
@@ -382,7 +378,6 @@ public class ImageViewer extends javax.swing.JFrame {
             jLabel2.setText(selectedImage.getName());
             currentSelectedImageName = selectedImage.getName();
 
-
             try {
                 // Read and display the image
                 BufferedImage image = ImageIO.read(selectedImage);
@@ -392,7 +387,6 @@ public class ImageViewer extends javax.swing.JFrame {
                     ImageIcon imgIcn = new ImageIcon(image_Ajusted);
 
                     jLabel1.setIcon(imgIcn);
-
 
                     pack(); // Adjust frame size to fit the image
                 } else {
@@ -433,7 +427,6 @@ public class ImageViewer extends javax.swing.JFrame {
                         currentSelectedAlbumPath = newAlbum.getAbsolutePath();
                         jLabel3.setText(newAlbum.getAbsolutePath()+"...");
 
-
                     } else {
                         JOptionPane.showMessageDialog(this, "Failed to create album.");
                         consoleX.consoleLog("Failed to create album.");
@@ -465,7 +458,6 @@ public class ImageViewer extends javax.swing.JFrame {
                     } else {
                         JOptionPane.showMessageDialog(this, "Operation canceled.");
                     }
-
 
                 }
             } else {
