@@ -10,8 +10,8 @@ import imageX.Console.*;
 
 public class ImageCleanupQueue {
     ImageXConsole consoleX = new ImageXConsole();
-    private static final long FILE_DELETION_DELAY_MS = 24*60 * 1000; // 1 day in milliseconds
-    private static final long QUEUE_PROCESS_INTERVAL_MS = 1000 * 1000; // 1 minute in milliseconds
+    private static final long FILE_DELETION_DELAY_MS = 24*60*60 * 1000; // 1 day in milliseconds
+    private static final long QUEUE_PROCESS_INTERVAL_MS = 60 * 1000; // 1 minute in milliseconds
 
     private final Queue<File> deletionQueue = new LinkedList<>();
     private final Timer timer;
