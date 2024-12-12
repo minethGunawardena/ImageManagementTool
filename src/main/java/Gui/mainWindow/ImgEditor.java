@@ -4,7 +4,6 @@
  */
 package Gui.mainWindow;
 
-
 import app.data.CurrentValues;
 import imageX.Console.CustomOnExit;
 import imageX.stucture.*;
@@ -20,9 +19,6 @@ public class ImgEditor extends javax.swing.JFrame {
     CurrentValues cV = new CurrentValues();
     Image.ImageNode currntImageNode = null;
     imageFiltering image = new imageFiltering(new File(cV.getCurrentImagePath()));
-
-
-
 
     public ImgEditor() {
         initComponents();
